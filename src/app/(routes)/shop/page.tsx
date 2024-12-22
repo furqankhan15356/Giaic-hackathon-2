@@ -12,7 +12,7 @@ export default function Shop(){
     </nav>
   </div>
         </div>
-        <div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 sm:pr-14 gap-3 mt-20 pl-36">
+        <div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 pl-5 gap-3 mt-20 lg:pl-36">
         <div><img src="/Images.png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Syltherine</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
         <div><img src="/Featured Products.png" alt="img" /></div>
         <div><img src="/Images (1).png" alt="img" className="hover:scale-110 transition-transform duration-300"/><h4 className="font-bold font-sans text-2xl pl-4 mt-4">Loolito</h4><h5 className="font-sans text-lg text-gray-600 pl-4 mt-2">Luxury big sofa</h5><h6 className="font-bold text-xl pl-3 mt-2">Rp.7.000.000</h6></div>
@@ -20,7 +20,7 @@ export default function Shop(){
         </div>
       </div>
 
-      <div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 sm:pr-14 gap-3 mt-20 pl-36">
+      <div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 pl-5 gap-3 mt-20 lg:pl-36">
         <div><img src="/Images.png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Syltherine</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
         <div><img src="/image 2 (1).png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Leviosa</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
         <div><img src="/Images (1).png" alt="img" className="hover:scale-110 transition-transform duration-300"/><h4 className="font-bold font-sans text-2xl pl-4 mt-4">Loolito</h4><h5 className="font-sans text-lg text-gray-600 pl-4 mt-2">Luxury big sofa</h5><h6 className="font-bold text-xl pl-3 mt-2">Rp.7.000.000</h6></div>
@@ -28,7 +28,7 @@ export default function Shop(){
         </div>
       </div>
 
-       <div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 sm:pr-14 gap-3 mt-20 pl-36">
+       <div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 pl-5 gap-3 mt-20 lg:pl-36">
         <div><img src="/Images.png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Syltherine</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
         <div><img src="/image 2 (1).png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Leviosa</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
         <div><img src="/Images (1).png" alt="img" className="hover:scale-110 transition-transform duration-300"/><h4 className="font-bold font-sans text-2xl pl-4 mt-4">Loolito</h4><h5 className="font-sans text-lg text-gray-600 pl-4 mt-2">Luxury big sofa</h5><h6 className="font-bold text-xl pl-3 mt-2">Rp.7.000.000</h6></div>
@@ -36,7 +36,7 @@ export default function Shop(){
         </div>
       </div>
 
-<div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 sm:-14 gap-3 mt-20 pl-36">
+<div className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 pl-5 gap-3 mt-20 lg:pl-36">
 <div><img src="/Images.png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Syltherine</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
 <div><img src="/image 2 (1).png" alt="img" className="hover:scale-110 transition-transform duration-300" /><h1 className="font-bold font-sans text-2xl pl-4 mt-4">Leviosa</h1><h2 className="font-sans text-lg text-gray-600 pl-4 mt-2">stylish cafe chair</h2><h3 className="font-bold text-xl pl-3 mt-2">Rp 2.500.000</h3></div>
 <div><img src="/Images (1).png" alt="img" className="hover:scale-110 transition-transform duration-300"/><h4 className="font-bold font-sans text-2xl pl-4 mt-4">Loolito</h4><h5 className="font-sans text-lg text-gray-600 pl-4 mt-2">Luxury big sofa</h5><h6 className="font-bold text-xl pl-3 mt-2">Rp.7.000.000</h6></div>
@@ -44,7 +44,7 @@ export default function Shop(){
 </div>
 </div>
 
-        <div className="flex justify-center mt-4"><img src="/Frame 72.png" alt="img" /></div>
+        <div className="flex justify-center mt-8"><img src="/Frame 72.png" alt="img" /></div>
 
         <div className="flex justify-center w-full"><img src="/Frame 161.png" alt="img" /></div>
       </main>

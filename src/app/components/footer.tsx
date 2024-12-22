@@ -59,7 +59,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="mt-8 border-t border-gray-200 pt-4 text-center text-sm text-gray-500">
-          © 2023 Funiro. All rights reserved.
+          © 2024 Funiro by Furqan Khan. All rights reserved.
         </div>
       </div>
     </footer>
